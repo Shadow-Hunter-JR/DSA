@@ -1,0 +1,9 @@
+p{
+    text-align: justify;
+    line-height: normal;
+    text-transform: capitalize;
+    text-decoration: rgb(255, 4, 0) dotted underline;
+    margin-inline-end: 10px;
+    margin-inline-start: 10px;
+    font-family: 'Times New Roman';
+}
